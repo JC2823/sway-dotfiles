@@ -1,0 +1,31 @@
+@import "/home/jesusc/.cache/wal/colors-waybar.css";
+
+*{
+    font-family: DroidSansM Nerd Font;
+}
+
+window {
+    border: 0;
+    border-radius: 10px;
+}
+
+#inner-box {
+    background-color: @background;
+}
+
+#outer-box {
+    padding: 20px;
+    background-color: @background;
+    border: 1px solid @foreground;
+    border-radius: 10px;
+}
+
+#text {
+    padding: 5px;
+    color: @foreground;
+}
+
+#entry:selected {
+    background-color: @color2;
+
+}
