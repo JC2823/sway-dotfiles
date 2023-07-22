@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jesusc/Pictures/Wallpapers/my-winter-4k_bGloameUmZqaraWkpJRma2VlrW5lZQ-301894788.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0a1f",
+        "foreground": "#a3a2c9",
+        "cursor": "#a3a2c9"
+    },
+    "colors": {
+        "color0": "#0d0a1f",
+        "color1": "#C46E63",
+        "color2": "#2A3A91",
+        "color3": "#374499",
+        "color4": "#1046AC",
+        "color5": "#3450B0",
+        "color6": "#464FA3",
+        "color7": "#a3a2c9",
+        "color8": "#72718c",
+        "color9": "#C46E63",
+        "color10": "#2A3A91",
+        "color11": "#374499",
+        "color12": "#1046AC",
+        "color13": "#3450B0",
+        "color14": "#464FA3",
+        "color15": "#a3a2c9"
+    }
+}

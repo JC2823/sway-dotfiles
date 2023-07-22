@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jesusc/Pictures/Wallpapers/3rfxEWs.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#040C19",
+        "foreground": "#e8a1c2",
+        "cursor": "#e8a1c2"
+    },
+    "colors": {
+        "color0": "#040C19",
+        "color1": "#562F44",
+        "color2": "#5D345A",
+        "color3": "#02456C",
+        "color4": "#245666",
+        "color5": "#963B67",
+        "color6": "#B44466",
+        "color7": "#e8a1c2",
+        "color8": "#a27087",
+        "color9": "#562F44",
+        "color10": "#5D345A",
+        "color11": "#02456C",
+        "color12": "#245666",
+        "color13": "#963B67",
+        "color14": "#B44466",
+        "color15": "#e8a1c2"
+    }
+}

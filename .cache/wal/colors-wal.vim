@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/jesusc/Pictures/Wallpapers/2mn8bo9krcx71.png"
+let background = "#131219"
+let foreground = "#c2dce4"
+let cursor     = "#c2dce4"
+
+" Colors
+let color0  = "#131219"
+let color1  = "#8B78AF"
+let color2  = "#6F93CC"
+let color3  = "#73B1C3"
+let color4  = "#7DB8CF"
+let color5  = "#8E93BA"
+let color6  = "#84A7C7"
+let color7  = "#c2dce4"
+let color8  = "#879a9f"
+let color9  = "#8B78AF"
+let color10 = "#6F93CC"
+let color11 = "#73B1C3"
+let color12 = "#7DB8CF"
+let color13 = "#8E93BA"
+let color14 = "#84A7C7"
+let color15 = "#c2dce4"

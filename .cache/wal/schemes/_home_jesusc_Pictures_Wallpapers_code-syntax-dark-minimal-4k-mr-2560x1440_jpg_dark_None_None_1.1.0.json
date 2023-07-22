@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jesusc/Pictures/Wallpapers/code-syntax-dark-minimal-4k-mr-2560x1440.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0a0a",
+        "foreground": "#c5c6c7",
+        "cursor": "#c5c6c7"
+    },
+    "colors": {
+        "color0": "#0a0a0a",
+        "color1": "#4F4F50",
+        "color2": "#605F60",
+        "color3": "#6F6E6F",
+        "color4": "#807F7F",
+        "color5": "#7E8282",
+        "color6": "#909090",
+        "color7": "#c5c6c7",
+        "color8": "#898a8b",
+        "color9": "#4F4F50",
+        "color10": "#605F60",
+        "color11": "#6F6E6F",
+        "color12": "#807F7F",
+        "color13": "#7E8282",
+        "color14": "#909090",
+        "color15": "#c5c6c7"
+    }
+}

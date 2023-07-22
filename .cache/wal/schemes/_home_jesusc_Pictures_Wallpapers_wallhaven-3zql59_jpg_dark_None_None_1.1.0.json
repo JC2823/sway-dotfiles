@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/jesusc/Pictures/Wallpapers/wallhaven-3zql59.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#232323",
+        "foreground": "#dee0e1",
+        "cursor": "#dee0e1"
+    },
+    "colors": {
+        "color0": "#232323",
+        "color1": "#749BCF",
+        "color2": "#889599",
+        "color3": "#97A7AC",
+        "color4": "#9DABAF",
+        "color5": "#AEBBC3",
+        "color6": "#B9C4C8",
+        "color7": "#dee0e1",
+        "color8": "#9b9c9d",
+        "color9": "#749BCF",
+        "color10": "#889599",
+        "color11": "#97A7AC",
+        "color12": "#9DABAF",
+        "color13": "#AEBBC3",
+        "color14": "#B9C4C8",
+        "color15": "#dee0e1"
+    }
+}
